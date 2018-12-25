@@ -27,12 +27,12 @@ function Banner(props) {
             style={{ transform: 'translateX(-64px)' }}
           />
         </div>
-        <h1 key="h1">ANT DESIGN PRO</h1>
+        <h1 key="h1">SHOPFORCE PRO</h1>
         <p key="content">
           开箱即用的中台前端/设计解决方案
         </p>
         <div key="button" className="button-wrapper">
-          <a href="http://preview.pro.ant.design" target="_blank" rel="noopener noreferrer">
+          <a href="http://sfdc.in" target="_blank" rel="noopener noreferrer">
             <Button type="primary">
               预览
             </Button>
@@ -43,8 +43,8 @@ function Banner(props) {
           <GitHubButton
             key="github-button"
             type="stargazers"
-            namespace="ant-design"
-            repo="ant-design-pro"
+            namespace="kulado"
+            repo="shopforce"
           />
         </div>
       </QueueAnim>
